@@ -2,6 +2,12 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 1754px;
+  height: 1172px;
   width: 1240px;
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
